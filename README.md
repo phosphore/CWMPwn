@@ -1,5 +1,5 @@
 # CWMPwn
-Leveraging CWMP (CPE WAN Management Protocol) to extract vendor specific secrets and configurations.
+Leveraging CWMP (CPE WAN Management Protocol) to extract vendor specific secrets and configurations from CPEs.
 
 ## What are TR-069 and CWMP?
 [TR-069](https://en.wikipedia.org/wiki/TR-069) (*Technical Report 069*) is a technical specification of the [Broadband Forum](broadband-forum.org) that defines an application layer protocol for remote management of [customer-premises equipment](https://en.wikipedia.org/wiki/Customer-premises_equipment) (CPE) connected to an Internet Protocol (IP) network.
