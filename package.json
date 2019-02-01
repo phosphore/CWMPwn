@@ -1,0 +1,28 @@
+{
+  "name": "CWMPwn",
+  "version": "0.6.0",
+  "description": "Leveraging CWMP (CPE WAN Management Protocol) to extract vendor specific secrets and configurations via HTTP",
+  "main": "CWMPwn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "TR-069",
+    "CWMP",
+    "crawler",
+    "CPE"
+  ],
+  "author": "Lorenzo Stella <lorenzo.stl@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=6.9.2 <7.0"
+  },
+  "dependencies": {
+    "async": "^2.6.1",
+    "colors": "^1.3.3",
+    "commander": "^2.9.0",
+    "fast-csv": "^2.4.1",
+    "js-combinatorics": "^0.5.4",
+    "libxmljs": "^0.18.4"
+  }
+}
