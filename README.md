@@ -49,5 +49,9 @@ X_GAMECO-COM_GameDevice.Info.Type
 ```
 It is possible to provide CWMPwn with a custom list using `-l <csvPath>`. 
 
+## TODO
+- Implement the `GetParameterNames` action. [Example of this action envelope](https://github.com/ibnHatab/cwmp/blob/master/test/data/GetParameterNames.xml).
+- Implement a fuzzer mode for the protocol
+
 ## License
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
