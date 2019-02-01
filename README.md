@@ -6,7 +6,7 @@ Leveraging CWMP (CPE WAN Management Protocol) to extract vendor specific secrets
 The *CPE WAN Management Protocol* (CWMP) defines support functions for auto-configuration, software or firmware image management, software module management, status and performance managements, and diagnostics.
 
 ## Examples
-#### Hardcoded ftp credentials
+#### Hardcoded ftp credentials discovery
 ![](https://i.imgur.com/IP7zBXd.png)
 #### Users and passwords enumeration
 ![](https://i.imgur.com/B0swulN.png)
